@@ -1,4 +1,4 @@
-src="https://cdn.discordapp.com/attachments/1087069991876165643/1110789353497702410/standard_11.gif">
+href="https://cdn.discordapp.com/attachments/1087069991876165643/1109529804161683486/6e4ab476cf62cf649c36b6cc2b571256.png?width=429&height=429"
 
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1087069991876165643/1110786920897847346/icegif-67.gif">
 𝙄 𝙜𝙤𝙩 𝙩𝙝𝙚 𝙗𝙧𝙚𝙖𝙙, 𝙨𝙝𝙚 𝙘𝙝𝙤𝙥𝙥𝙚𝙙 𝙗𝙪𝙩 𝙨𝙖𝙞𝙙, "𝘾𝙖𝙣 𝙄 𝙗𝙧𝙞𝙣𝙜 𝙖 𝙛𝙧𝙞𝙚𝙣𝙙?"
