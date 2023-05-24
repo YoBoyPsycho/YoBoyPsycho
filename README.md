@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/YoBoyPsycho/YoBoyPsycho/assets/134470241/c8eb45de-e8f8-4f30-b37c-78b45ac5167c)=">
+<img align="right" alt="Coding" width="400" src="[![image](https://github.com/YoBoyPsycho/YoBoyPsycho/assets/134470241/c8eb45de-e8f8-4f30-b37c-78b45ac5167c)](https://cdn.discordapp.com/attachments/1087069991876165643/1110786920897847346/icegif-67.gif)=">
 
 <!--
 **YoBoyPsycho/YoBoyPsycho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
